@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: saniya1312s/web-repo:latest
+        tags: saniya1312/web-repo:latest
